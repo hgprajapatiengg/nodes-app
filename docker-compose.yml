@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : hgprajapatiengg/my-note-app:latest
+     image : hgprajapatiengg/my-notes-app:latest
      ports :
          - "8000:8000"
